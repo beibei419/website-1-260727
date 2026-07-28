@@ -17,14 +17,14 @@ body {
 
 h1,
 h2 {
-  font-family: "Cinzel Decorative", cursive;
+  font-family: "Cinzel Decorative";
   color: #2a2a2a;
 }
 
 p,
 li {
   font-family: "Roboto Condensed", sans-serif;
-  color: #2a2a2a;
+  color: black;
 }
 
 h1 {
@@ -57,7 +57,7 @@ article,
 aside,
 footer,
 section {
-  background-color: #00ff0080;
+  background-color: rgb(42, 106, 66);
   padding: 1%;
 }
 
