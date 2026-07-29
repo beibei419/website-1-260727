@@ -26,3 +26,97 @@ nav{
     padding:15px;
     margin-bottom:25px;
 }
+
+nav a{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+}
+
+nav a:hover{
+    color:darkgreen;
+}
+
+main{
+    display:grid;
+    grid-template-columns:220px 1fr 300px;
+    gap:25px;
+}
+
+.left-sidebar{
+    background:#d8d8d8;
+    color:black;
+    border-radius:40px;
+    padding:25px;
+    min-height:600px;
+}
+
+.left-sidebar h3{
+    text-align:left;
+}
+
+.content{
+    background:#d8d8d8;
+    color:black;
+    padding:25px;
+    border-radius:10px;
+}
+
+.content img{
+    width:100%;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
+.right-sidebar{
+    background:#36b447;
+    color:black;
+    border-radius:40px;
+    padding:25px;
+}
+
+.right-sidebar h3{
+    margin-bottom:15px;
+}
+
+.right-sidebar p{
+    margin-bottom:20px;
+    line-height:1.6;
+}
+
+.signin{
+    position:absolute;
+    top:25px;
+    right:80px;
+}
+
+.signin a{
+    text-decoration:none;
+    color:black;
+    background:#d8d8d8;
+    padding:15px 25px;
+    border-radius:20px;
+    font-weight:bold;
+}
+
+.signin a:hover{
+    background:white;
+}
+
+footer{
+    margin-top:40px;
+    background:#d8d8d8;
+    color:black;
+    border-radius:30px;
+    text-align:center;
+    padding:20px;
+}
+
+p{
+    line-height:1.7;
+}
+
+h2,h3{
+    margin-bottom:15px;
+}
