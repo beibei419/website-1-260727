@@ -33,6 +33,7 @@ nav a{
     font-weight:bold;
     font-size:20px;
     text-align:center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 nav a:hover{
@@ -131,6 +132,8 @@ footer{
     border-radius:30px;
     text-align:left;
     padding:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.7;
 }
 
 p{
