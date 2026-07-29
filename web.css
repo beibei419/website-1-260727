@@ -53,7 +53,7 @@ main{
 }
 
 .left-sidebar h3{
-    text-align:left;
+    text-align:center;
 }
 
 .content{
@@ -98,6 +98,7 @@ main{
     padding:15px 25px;
     border-radius:20px;
     font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .signin a:hover{
@@ -117,6 +118,7 @@ main{
     padding:15px 25px;
     border-radius:20px;
     font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .signup a:hover{
