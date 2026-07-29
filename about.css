@@ -75,6 +75,7 @@ main{
     color:white;
     border-radius:40px;
     padding:25px;
+    line-height: 1.7;
 }
 
 .right-sidebar h3{
