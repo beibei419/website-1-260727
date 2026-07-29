@@ -49,7 +49,6 @@ main{
     background:#1a932e;
     color:black;
     border-radius:40px;
-    padding:0rpx;
     min-height:600px;
 }
 
@@ -108,7 +107,7 @@ main{
 .signup{
     position:absolute;
     top:25px;
-    left:40rpx
+    left:80rpx;
 }
 
 .signup a{
