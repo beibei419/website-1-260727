@@ -157,3 +157,9 @@ h3{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+}
