@@ -48,7 +48,7 @@ main{
 
 .left-sidebar{
     background:#357d41;
-    color:white;
+    color:black;
     border-radius:40px;
     min-height:600px;
 }
@@ -72,7 +72,7 @@ main{
 
 .right-sidebar{
     background:#357d41;
-    color:black;
+    color:white;
     border-radius:40px;
     padding:25px;
 }
