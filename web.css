@@ -23,7 +23,7 @@ h1{
 nav{
     background:#000000;
     border-radius:30px;
-    padding:15px;
+    padding:80px;
     margin-bottom:25px;
 }
 
@@ -34,7 +34,6 @@ nav a{
     font-size:20px;
     text-align:center;
     font-family: 'Times New Roman', Times, serif;
-    padding: 50rpx;
 }
 
 nav a:hover{
