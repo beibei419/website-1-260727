@@ -21,7 +21,7 @@ h1{
 }
 
 nav{
-    background:#d8d8d8;
+    background:#000000;
     border-radius:30px;
     padding:15px;
     margin-bottom:25px;
@@ -29,7 +29,7 @@ nav{
 
 nav a{
     text-decoration:none;
-    color:black;
+    color:white;
     font-weight:bold;
     font-size:20px;
 }
@@ -45,7 +45,7 @@ main{
 }
 
 .left-sidebar{
-    background:#d8d8d8;
+    background:#1a932e;
     color:black;
     border-radius:40px;
     padding:25px;
@@ -70,7 +70,7 @@ main{
 }
 
 .right-sidebar{
-    background:#36b447;
+    background:#1a932e;
     color:black;
     border-radius:40px;
     padding:25px;
@@ -104,19 +104,42 @@ main{
     background:white;
 }
 
+.signup{
+    position:absolute;
+    top:25px;
+    right:60px;
+}
+
+.signup a{
+    text-decoration:none;
+    color:black;
+    background:#d8d8d8;
+    padding:15px 25px;
+    border-radius:20px;
+    font-weight:bold;
+}
+
+.signup a:hover{
+    background:white;
+}
+
 footer{
     margin-top:40px;
     background:#d8d8d8;
     color:black;
     border-radius:30px;
-    text-align:center;
+    text-align:left;
     padding:20px;
 }
 
 p{
-    line-height:1.7;
+    line-height:1.8;
+    font-size: smaller;
 }
 
 h2,h3{
     margin-bottom:15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+    font-weight: bold;
 }
