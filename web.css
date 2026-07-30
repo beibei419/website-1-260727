@@ -25,6 +25,8 @@ nav{
     border-radius:30px;
     padding:20px;
     margin-bottom:25px;
+    display: flex;
+    flex:space-around;
 }
 
 nav a{
