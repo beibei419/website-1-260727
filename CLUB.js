@@ -11,7 +11,7 @@ post: URL("https://static.vecteezy.com/system/resources/previews/011/288/267/ori
 likes: "❤️ 15", 
 comments: ['1', '2']
 }, 
-{username:name1, 
+{username:name2, 
 post: URL("https://static.vecteezy.com/system/resources/previews/011/288/267/original/golden-number-1-png.png"), 
 likes: "❤️ 15", 
 comments: ['1', '2']
