@@ -78,7 +78,7 @@ div.content {
     padding:30px;
     border-radius:5px;
     display:flex;
-    justify-content:space-around;
+    justify-content:center;
     align-items:flex-end;
     width: 90%;
 }
@@ -90,6 +90,7 @@ div.content {
     border:none;
     font-size:18px;
     cursor:pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
