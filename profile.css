@@ -119,7 +119,8 @@ h3{
     flex-direction: column;
     gap:25px;
     align-items: flex-start;
-    width: 100%;
+    height:100%;
+    width:1000px;
 }
 
 .profilepic{
