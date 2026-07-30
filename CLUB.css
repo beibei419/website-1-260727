@@ -118,6 +118,12 @@ div.content {
     flex:1;
 }
 
+.username{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
 h3{
     color:black;
     margin-bottom:15px;
