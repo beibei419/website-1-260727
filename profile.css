@@ -183,7 +183,7 @@ h3{
     display: flex;
     flex-direction: column;
     gap:10px;
-    width:900PX;
+    width:1100PX;
 }
 
 #storyinput,#postinput{
