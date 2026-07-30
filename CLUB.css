@@ -57,6 +57,11 @@ main{
     text-align:center;
 }
 
+.content { 
+    display: flex; 
+    flex-direction: column;
+}
+
 .card{
     background:white;
     border-radius:30px;
