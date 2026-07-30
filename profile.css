@@ -191,6 +191,7 @@ h3{
     border: 1px solid #bbb;
     border-radius: 6px;
     resize:vertical;
+    width:100%;
 }
 
 .save story,
@@ -211,6 +212,7 @@ h3{
     display: flex;
     flex-direction: column;
     gap:10px;
+    width: 100%;
 }
 
 .post-preview{
