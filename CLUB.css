@@ -115,99 +115,62 @@ main{
 
     display:flex;
     gap:20px;
-
     padding:25px 0;
-
     border-bottom:1px solid #ddd;
-
 }
 
 .avatar{
-
     width:60px;
     height:60px;
-
     border-radius:10px;
-
     object-fit:cover;
-
 }
 
 .post-content{
-
     flex:1;
-
 }
 
 .post-content h3{
-
     color:#2f5d9b;
     margin-bottom:10px;
-
 }
 
 .text{
-
     margin-bottom:15px;
-    line-height:1.6;
-
+    line-height:1.6
 }
 
 .photo-grid{
-
     display:grid;
-
     grid-template-columns:repeat(3,120px);
-
     gap:8px;
-
     margin-bottom:15px;
-
 }
 
 .photo-grid img{
-
     width:120px;
     height:120px;
-
     object-fit:cover;
-
     border-radius:8px;
-
 }
 
 .post-footer{
-
     display:flex;
-
     justify-content:space-between;
-
     align-items:center;
-
     margin-bottom:15px;
-
 }
 
 .post-footer button{
-
     border:none;
-
     background:#f3f3f3;
-
     padding:6px 12px;
-
     border-radius:20px;
-
     cursor:pointer;
-
 }
 
 .comments{
-
     background:#f7f7f7;
-
     padding:12px;
-
     border-radius:8px;
-
 }
