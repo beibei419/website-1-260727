@@ -60,7 +60,7 @@ h3{
 .content { 
     display: flex; 
     flex-direction: column;
-    width: 500%;
+    width: 1400px;
 }
 
 .card{
