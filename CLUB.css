@@ -174,3 +174,9 @@ main{
     padding:12px;
     border-radius:8px;
 }
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+}
