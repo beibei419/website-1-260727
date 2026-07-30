@@ -79,18 +79,19 @@ div.content {
     border-radius:5px;
     display:flex;
     justify-content:center;
-    align-items:flex-end;
-    width: 90%;
+    align-items:center;
+    width: 100%;
 }
 
 .ask-btn{
     margin-top:20px;
     background:none;
-    color:#2196f3;
+    color:#214869;
     border:none;
-    font-size:18px;
+    font-size:16px;
     cursor:pointer;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 
