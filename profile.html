@@ -7,3 +7,95 @@
     <link href="profile.css" rel="stylesheet"> 
     <link href="web.css" rel="stylesheet">
 </head>
+
+<body>
+    
+<div class="signup">
+    <a href="#">
+        Sign Up for Club<br>
+    </a>
+</div>
+
+<div class="signin">
+    <a href="#">
+        Sign in<br>
+    </a>
+</div>
+
+<h1>MY PROFILE</h1>
+
+<nav>
+    <ul>
+        <a href="Club Icarus.html">Home</a>
+        <a href="https://artmsmtra.net/">Purchase</a>
+        <a href="#">CLUB</a>
+        <a href="#">Profile</a>
+        <a href="About.html">About</a>
+    </ul>
+</nav>
+
+<main>
+
+    <aside class="left-sidebar">
+        <h3>
+            <a href="#">Chat</a><br>
+            <a href="#">Setting</a>
+        </h3>
+    </aside>
+
+    <section class="profile-main">
+        <div class="profilepic">
+            <div class="avatar-circle">Profile picture</div>
+            <button class="edit-avatar">Edit</button>
+        </div>
+
+        <div class="info-card">
+            <div class="info-row">
+                <label>Name:</label>
+                <input type="text" id="input-name" placeholder="Enter name">
+            </div>
+            <div class="info-row">
+                <label>Gender:</label>
+                <input type="text" id="input-gender" placeholder="Gender">
+            </div>
+            <div class="info-row">
+                <label>Birthday:</label>
+                <input type="text" id="input-bd" placeholder="Birthday">
+            </div>
+            <div class="info-row">
+                <label for="identity select">Identity:</label>
+                <select id="identity select">
+                    <option value="Mortal">Mortal</option>
+                    <option value="Devine">Devine</option>
+                    <option value="Fallen">Fallen</option>
+                </select>
+                <div class="info-link-group">
+                    <a href="#" class="page-link">See members inclub</a>
+                </div>
+                <button class="save">Save</button>
+            </div>
+        </div>
+
+        <div class="story">
+            <h3>My Story</h3>
+            <textarea id="storyinput" placeholder="Write your story"></textarea>
+            <button class="save story">Edit</button>
+        </div>
+
+        <div class="posts">
+            <h3>My posts in CLUB</h3>
+            <textarea id="postinput" placeholder="Post"></textarea>
+            <button  class="save post">Post</button>
+            <div id="post display" class="post-preview">my posts</div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    Club originally created by "Dall", time unknown, real identity unknown.<br>
+    Click "About" at navigation bar to learn more about Club Icarus. <br>
+    artemis, Dall
+</footer>
+
+</body>
+</html>
