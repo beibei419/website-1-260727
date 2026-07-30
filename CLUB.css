@@ -57,7 +57,7 @@ h3{
     text-align:center;
 }
 
-.content { 
+div.content { 
     display: flex; 
     flex-direction: column;
     width: 1400px;
