@@ -78,7 +78,7 @@ div.content {
     padding:30px;
     border-radius:5px;
     display:flex;
-    justify-content:space-between;
+    justify-content:space-around;
     align-items:flex-end;
     width: 90%;
 }
@@ -116,11 +116,12 @@ div.content {
 }
 
 h3{
-    color:#2f5d9b;
+    color:black;
     margin-bottom:10px;
     font-size: large;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
+    align-items: end;
 }
 
 .text{
