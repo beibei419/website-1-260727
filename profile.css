@@ -116,15 +116,16 @@ h3{
 
 .profile-main{
     display:flex;
-    gap:24px;
+    flex-direction: column;
+    gap:25px;
     align-items: flex-start;
 }
 
 .profilepic{
     display:flex;
     flex-direction: column;
-    align-items: center;
-    gap:10px;
+    align-items: flex-start;
+    gap:30px;
 }
 
 .avatar-circle{
@@ -182,6 +183,7 @@ h3{
     display: flex;
     flex-direction: column;
     gap:10px;
+    width:100%;
 }
 
 #storyinput,#postinput{
@@ -221,4 +223,5 @@ h3{
     padding: 10px;
     border-radius: 6px;
     min-height: 60px;
+    width: 100%;
 }
