@@ -57,11 +57,6 @@ main{
     text-align:center;
 }
 
-.content{
-    display:grid;
-    gap:30px;
-}
-
 .card{
     background:white;
     border-radius:30px;
