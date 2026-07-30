@@ -63,10 +63,10 @@ main{
     gap:30px;
 }
 
-
 .card{
     background:white;
     border-radius:40px;
+    width: 100%;
     padding:30px;
 }
 
@@ -80,6 +80,7 @@ main{
     display:flex;
     justify-content:space-between;
     align-items:flex-end;
+    width: 90%;
 }
 
 .ask-btn{
@@ -94,6 +95,10 @@ main{
 
 .posts{
     min-height:450px;
+    width:100%;
+     background:white;
+    border-radius:30px;
+    padding:30px;
 }
 
 .post-placeholder{
@@ -105,18 +110,12 @@ main{
     color:#444;
 }
 
-.posts{
-    background:white;
-    border-radius:30px;
-    padding:30px;
-}
-
 .moment-post{
-
     display:flex;
     gap:20px;
     padding:25px 0;
     border-bottom:1px solid #ddd;
+    align-content: space-around;
 }
 
 .avatar{
@@ -133,6 +132,7 @@ main{
 .post-content h3{
     color:#2f5d9b;
     margin-bottom:10px;
+    font-size: large;
 }
 
 .text{
